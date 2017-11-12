@@ -18,7 +18,7 @@ class DefaultColor(object):
     HOME_SPECIAL_DISPLAY = True
     HOME_BG = 31  # blueish
     HOME_FG = 15  # white
-    PATH_BG = 237  # dark grey
+    PATH_BG = 31 # blueish
     PATH_FG = 250  # light grey
     CWD_FG = 254  # nearly-white grey
     SEPARATOR_FG = 244
@@ -37,7 +37,7 @@ class DefaultColor(object):
     JOBS_FG = 39
     JOBS_BG = 238
 
-    CMD_PASSED_BG = 236
+    CMD_PASSED_BG = 238
     CMD_PASSED_FG = 15
     CMD_FAILED_BG = 161
     CMD_FAILED_FG = 15
