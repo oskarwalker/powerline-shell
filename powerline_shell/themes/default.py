@@ -61,6 +61,9 @@ class DefaultColor(object):
     VIRTUAL_ENV_BG = 35  # a mid-tone green
     VIRTUAL_ENV_FG = 00
 
+    DOCKER_MACHINE_FG = 15
+    DOCKER_MACHINE_BG = 161
+
     BATTERY_NORMAL_BG = 22
     BATTERY_NORMAL_FG = 7
     BATTERY_LOW_BG = 196
